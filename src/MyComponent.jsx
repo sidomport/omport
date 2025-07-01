@@ -1,4 +1,4 @@
-import { RawImg } from "./components";
+import { RawImg } from "./components/index.jsx";
 
 export default function MyComponent(props) {
   return (
